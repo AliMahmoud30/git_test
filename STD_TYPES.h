@@ -10,10 +10,10 @@
 #define 	STD_TYPES_H
 
 /* Section: Data Type Declarations */
-typedef unsigned char        uint8_t;
-typedef unsigned short       uint16_t;
+typedef unsigned char        u8;
+typedef unsigned short       u16;
 typedef unsigned long        uint32_t;
-typedef unsigned long long   uint64_t;
+
 
 typedef signed char          sint8_t;
 typedef signed short         sint16_t;
